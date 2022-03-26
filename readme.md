@@ -42,9 +42,11 @@ If you do not shoot the Starbase, your missiles and fuel are refilled, and damag
 
 The four guages are:
 
-Fuel   Shields \
-  Warning \
+```
+Fuel   Shields
+  Warning
 Speed  Damage
+```
 
 Missiles are displayed on either side of the score.
 
