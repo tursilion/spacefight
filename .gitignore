@@ -281,3 +281,4 @@ __pycache__/
 *.asm
 *.lst
 stdout.txt
+ti99dir.ini

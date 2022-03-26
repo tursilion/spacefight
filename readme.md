@@ -1,3 +1,5 @@
+20090507
+
 Copyright (C) 2009 by Mike Brent
 This program is not public domain and may
 not be sold without prior arrangement.
@@ -5,7 +7,8 @@ It may not be distributed on images sold
 for a 'copy fee' either.
 Getting permission is easy: mbrent@harmlesslion.com
 
-Made with BATARI BASIC.
+Atari 2600 version Made with BATARI BASIC.
+TI Version made with TI BASIC.
 
 Earth ships are:
 -Cargo ships
@@ -19,9 +22,9 @@ Enemy ships
 -Fighter ships
 -Lightbulbs ;)
 
-Up and Down to change speed
-Left and Right to change shields
-When a ship is displayed, press fire to attack it, or wait to let it pass.
+Up and Down to change speed (E and X)
+Left and Right to change shields (S and D)
+When a ship is displayed, press fire (space) to attack it, or wait to let it pass.
 
 If you do not destroy an enemy ship, it will shoot you as it leaves.
 If you do destroy an enemy ship, you get 100-400 points
