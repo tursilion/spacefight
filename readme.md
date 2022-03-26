@@ -5,7 +5,7 @@ This program is not public domain and may
 not be sold without prior arrangement.
 It may not be distributed on images sold
 for a 'copy fee' either.
-Getting permission is easy: mbrent@harmlesslion.com
+Getting permission is easy - write me.
 
 Atari 2600 version Made with BATARI BASIC.
 TI Version made with TI BASIC.
